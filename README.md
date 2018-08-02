@@ -1,6 +1,6 @@
 # You Don't Know JS (book series)
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
+여기는 JavaScript 언어의 핵심 메카니즘에 깊게 빠져드는 책 시리즈입니다. 시리즈의 초판이 지금 완료되었습니다.
 
 <a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
@@ -9,18 +9,18 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 <a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
 
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
+ 부디 코드 스니펫, 설명 등의 향상을 위한 Pull Request 제출하여 이 내용의 퀄리티에 자유롭게 기여해주세요. 오타 수정은 환영입니다만 아마 일반적인 수정 절차를 통해 이미 고쳐졌을 것이기 때문에 꼭 중요하진 않습니다.
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**이 책 시리즈에 숨겨진 동기와 배경에 대해 자세히 알아 보려면, [머릿말](preface.md)을 확인해주세요.**
 
-## Titles
+## 제목
 
-* Read online (free!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
-* Read online (free!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
-* Read online (free!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
-* Read online (free!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
-* Read online (free!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
-* Read online (free!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
+* 온라인 읽기 (무료): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), 출판본: 인쇄판 [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) , 전자책 형식은 무료!
+* 온라인 읽기 (무료): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), 출판본: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
+* 온라인 읽기 (무료): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
+* 온라인 읽기 (무료): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), 출판본: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
+* 온라인 읽기 (무료): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), 출판본: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
+* 온라인 읽기 (무료): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), 출판본: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
 
 ## Publishing
 
