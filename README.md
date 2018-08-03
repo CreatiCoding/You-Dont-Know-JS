@@ -1,6 +1,6 @@
 # You Don't Know JS (book series)
 
-여기는 JavaScript 언어의 핵심 메카니즘에 깊게 빠져드는 책 시리즈입니다. 시리즈의 초판이 지금 완료되었습니다.
+이것은 JavaScript 언어의 핵심 메카니즘에 깊게 빠져드는 책 시리즈입니다. 시리즈의 초판이 지금 완료되었습니다.
 
 <a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
@@ -22,33 +22,35 @@
 * 온라인 읽기 (무료): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), 출판본: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
 * 온라인 읽기 (무료): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), 출판본: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
 
-## Publishing
+## 출판
 
-These books are being released here as drafts, free to read, but are also being edited, produced, and published through O'Reilly.
+이 책들은 초안으로 배포되었으며 무료로 읽을 수 있지만, O'Reilly에 의해 수정되고 생산되고 출판됩니다.
 
-If you like the content you find here, and want to support more content like it, please purchase the books once they are available for sale, through your normal book sources. :)
+만약 당신이 여기서 찾은 내용이 마음에 들고 더 많은 내용으로 지원되길 원한다면, 판매되고 있는 책을 당신의 일반적인 서적으로 구매해주세요.
 
-If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [patreon](https://www.patreon.com/getify) that I would always appreciate your generosity towards.
+책 구입 이외에 OSS 작업 혹은 재정적인 노력으로 기여하기를 원한다면, 이를 향한 당신의 관용에 보답할 [patreon](https://www.patreon.com/getify)이 있습니다.
 
 <a href="https://www.patreon.com/getify">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/getify)</a>
 
-## In-person Training
+## 직접적인 교육
 
-The content for these books derives heavily from a series of training materials I teach professionally (in both public and private-corporate workshop format): "Deep JavaScript Foundations", "Rethinking Async", and "ES6: The Right Parts" workshops.
 
-If you like this content and would like to contact me regarding conducting training on these, or other various JS/HTML5/node.js topics, please reach out to me through email: getify @ gmail
+102/5000
+이 책의 내용은 제가 전문적으로 가르치는 일련의 교육 자료에서 파생되었습니다. ( 공개 혹은 비공개 워크샵 형태의 교육 ) : "Deep JavaScript Foundations", "Rethinking Async", and "ES6: The Right Parts" workshops.
 
-## Online Video Training
+만약 이 내용이 마음에 들고 이러한 자료에 대해 교육 시행 혹은 다른 다양한 JS/HTML5/node.js 관련하여 저에게 연락하고 싶다면 제게 이메일을 보내주세요: getify@gmail.com
 
-I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) workshop. You can find [all my courses here](https://frontendmasters.com/kyle-simpson/).
+## 온라인 강좌
 
-Some of those courses are also distributed on other platforms, like Pluralsight, Lynda.com, and O'Reilly Safari Online.
+또한 원한다면 영상 형태의 JS  교육 자료도 가지고 있습니다. 저는 마치 제 [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) workshop과 같이 [Frontend Masters](https://FrontendMasters.com)를 통해 강의를 하고 있습니다. 당신은 여기서 [all my courses here](https://frontendmasters.com/kyle-simpson/)을 찾을 수 있습니다.
+
+이러한 몇몇 강좌들은 또한 다른 플랫폼 ( Pluralsight, Lynda.com, O'Reilly ) 와 같은 형태로 배포됩니다.
 
 ## Contributions
 
-Any contributions you make to this effort **are of course greatly appreciated**.
+이 노력에 기여한 내용은 당연히 매우 감사합니다.
 
-But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
+하지만 **제발** PR을 제출하기 전에 [Contributions Guidelines](CONTRIBUTING.md)을 읽어주세요
 
 ## License & Copyright
 
