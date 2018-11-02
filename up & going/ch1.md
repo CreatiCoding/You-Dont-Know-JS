@@ -1,9 +1,12 @@
 # You Don't Know JS: Up & Going
+
 # Chapter 1: Into Programming
 
-Welcome to the *You Don't Know JS* (*YDKJS*) series.
+*You Don't Know JS* (*YDKJS*) 시리즈에 오신걸 환경합니다 :)
 
-*Up & Going* is an introduction to several basic concepts of programming -- of course we lean toward JavaScript (often abbreviated JS) specifically -- and how to approach and understand the rest of the titles in this series. Especially if you're just getting into programming and/or JavaScript, this book will briefly explore what you need to get *up and going*.
+*Up & Going* 은 프로그래밍의 몇가지 기본 개념의 소개입니다, 물론 우리는 명확하게 자바스크립트를 다루며, 이 시리즈에서 다른 책들을 어떻게 이해하고 접근하는지 또한 다룰 것입니다. 특히 당신이 자바스크립트 혹은 프로그래밍에 대해 이제 막 시작했다면,  이 책은 당신이 *up and going* 하기 위해 필요한 것을 빠르게 탐색할 것입니다.
+
+이 책은 매우 높은 수준으로 프로그래밍의 기초 원리를 설명하며 시작합니다. 프로그래밍 경험이 거의 없이 *YDKJS*를본다면, 
 
 This book starts off explaining the basic principles of programming at a very high level. It's mostly intended if you are starting *YDKJS* with little to no prior programming experience, and are looking to these books to help get you started along a path to understanding programming through the lens of JavaScript.
 
@@ -53,10 +56,10 @@ a = b * 2;
 
 This statement has four expressions in it:
 
-* `2` is a *literal value expression*
-* `b` is a *variable expression*, which means to retrieve its current value
-* `b * 2` is an *arithmetic expression*, which means to do the multiplication
-* `a = b * 2` is an *assignment expression*, which means to assign the result of the `b * 2` expression to the variable `a` (more on assignments later)
+- `2` is a *literal value expression*
+- `b` is a *variable expression*, which means to retrieve its current value
+- `b * 2` is an *arithmetic expression*, which means to do the multiplication
+- `a = b * 2` is an *assignment expression*, which means to assign the result of the `b * 2` expression to the variable `a` (more on assignments later)
 
 A general expression that stands alone is also called an *expression statement*, such as the following:
 
@@ -192,22 +195,29 @@ console.log( a );	// 42
 
 Here are some of the most common operators in JavaScript:
 
-* Assignment: `=` as in `a = 2`.
-* Math: `+` (addition), `-` (subtraction), `*` (multiplication), and `/` (division), as in `a * 3`.
-* Compound Assignment: `+=`, `-=`, `*=`, and `/=` are compound operators that combine a math operation with assignment, as in `a += 2` (same as `a = a + 2`).
-* Increment/Decrement: `++` (increment), `--` (decrement), as in `a++` (similar to `a = a + 1`).
-* Object Property Access: `.` as in `console.log()`.
+- Assignment: `=` as in `a = 2`.
 
-   Objects are values that hold other values at specific named locations called properties. `obj.a` means an object value called `obj` with a property of the name `a`. Properties can alternatively be accessed as `obj["a"]`. See Chapter 2.
-* Equality: `==` (loose-equals), `===` (strict-equals), `!=` (loose not-equals), `!==` (strict not-equals), as in `a == b`.
+- Math: `+` (addition), `-` (subtraction), `*` (multiplication), and `/` (division), as in `a * 3`.
 
-   See "Values & Types" and Chapter 2.
-* Comparison: `<` (less than), `>` (greater than), `<=` (less than or loose-equals), `>=` (greater than or loose-equals), as in `a <= b`.
+- Compound Assignment: `+=`, `-=`, `*=`, and `/=` are compound operators that combine a math operation with assignment, as in `a += 2` (same as `a = a + 2`).
 
-   See "Values & Types" and Chapter 2.
-* Logical: `&&` (and), `||` (or), as in `a || b` that selects either `a` *or* `b`.
+- Increment/Decrement: `++` (increment), `--` (decrement), as in `a++` (similar to `a = a + 1`).
 
-   These operators are used to express compound conditionals (see "Conditionals"), like if either `a` *or* `b` is true.
+- Object Property Access: `.` as in `console.log()`.
+
+  Objects are values that hold other values at specific named locations called properties. `obj.a` means an object value called `obj` with a property of the name `a`. Properties can alternatively be accessed as `obj["a"]`. See Chapter 2.
+
+- Equality: `==` (loose-equals), `===` (strict-equals), `!=` (loose not-equals), `!==` (strict not-equals), as in `a == b`.
+
+  See "Values & Types" and Chapter 2.
+
+- Comparison: `<` (less than), `>` (greater than), `<=` (less than or loose-equals), `>=` (greater than or loose-equals), as in `a <= b`.
+
+  See "Values & Types" and Chapter 2.
+
+- Logical: `&&` (and), `||` (or), as in `a || b` that selects either `a` *or* `b`.
+
+  These operators are used to express compound conditionals (see "Conditionals"), like if either `a` *or* `b` is true.
 
 **Note:** For much more detail, and coverage of operators not mentioned here, see the Mozilla Developer Network (MDN)'s "Expressions and Operators" (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators).
 
@@ -223,9 +233,9 @@ In very similar ways, when you express values in a program, you choose different
 
 These different representations for values are called *types* in programming terminology. JavaScript has built-in types for each of these so called *primitive* values:
 
-* When you need to do math, you want a `number`.
-* When you need to print a value on the screen, you need a `string` (one or more characters, words, sentences).
-* When you need to make a decision in your program, you need a `boolean` (`true` or `false`).
+- When you need to do math, you want a `number`.
+- When you need to print a value on the screen, you need a `string` (one or more characters, words, sentences).
+- When you need to make a decision in your program, you need a `boolean` (`true` or `false`).
 
 Values that are included directly in the source code are called *literals*. `string` literals are surrounded by double quotes `"..."` or single quotes (`'...'`) -- the only difference is stylistic preference. `number` and `boolean` literals are just presented as is (i.e., `42`, `true`, etc.).
 
@@ -287,9 +297,9 @@ But another important part is code comments. These are bits of text in your prog
 
 There are lots of opinions on what makes well-commented code; we can't really define absolute universal rules. But some observations and guidelines are quite useful:
 
-* Code without comments is suboptimal.
-* Too many comments (one per line, for example) is probably a sign of poorly written code.
-* Comments should explain *why*, not *what*. They can optionally explain *how* if that's particularly confusing.
+- Code without comments is suboptimal.
+- Too many comments (one per line, for example) is probably a sign of poorly written code.
+- Comments should explain *why*, not *what*. They can optionally explain *how* if that's particularly confusing.
 
 In JavaScript, there are two types of comments possible: a single-line comment and a multiline comment.
 
@@ -718,12 +728,12 @@ There is absolutely no substitute for practice in learning programming. No amoun
 
 With that in mind, let's try practicing some of the concepts we learned here in this chapter. I'll give the "requirements," and you try it first. Then consult the code listing below to see how I approached it.
 
-* Write a program to calculate the total price of your phone purchase. You will keep purchasing phones (hint: loop!) until you run out of money in your bank account. You'll also buy accessories for each phone as long as your purchase amount is below your mental spending threshold.
-* After you've calculated your purchase amount, add in the tax, then print out the calculated purchase amount, properly formatted.
-* Finally, check the amount against your bank account balance to see if you can afford it or not.
-* You should set up some constants for the "tax rate," "phone price," "accessory price," and "spending threshold," as well as a variable for your "bank account balance.""
-* You should define functions for calculating the tax and for formatting the price with a "$" and rounding to two decimal places.
-* **Bonus Challenge:** Try to incorporate input into this program, perhaps with the `prompt(..)` covered in "Input" earlier. You may prompt the user for their bank account balance, for example. Have fun and be creative!
+- Write a program to calculate the total price of your phone purchase. You will keep purchasing phones (hint: loop!) until you run out of money in your bank account. You'll also buy accessories for each phone as long as your purchase amount is below your mental spending threshold.
+- After you've calculated your purchase amount, add in the tax, then print out the calculated purchase amount, properly formatted.
+- Finally, check the amount against your bank account balance to see if you can afford it or not.
+- You should set up some constants for the "tax rate," "phone price," "accessory price," and "spending threshold," as well as a variable for your "bank account balance.""
+- You should define functions for calculating the tax and for formatting the price with a "$" and rounding to two decimal places.
+- **Bonus Challenge:** Try to incorporate input into this program, perhaps with the `prompt(..)` covered in "Input" earlier. You may prompt the user for their bank account balance, for example. Have fun and be creative!
 
 OK, go ahead. Try it. Don't peek at my code listing until you've given it a shot yourself!
 
@@ -786,12 +796,12 @@ Learning programming doesn't have to be a complex and overwhelming process. Ther
 
 These act like building blocks. To build a tall tower, you start first by putting block on top of block on top of block. The same goes with programming. Here are some of the essential programming building blocks:
 
-* You need *operators* to perform actions on values.
-* You need values and *types* to perform different kinds of actions like math on `number`s or output with `string`s.
-* You need *variables* to store data (aka *state*) during your program's execution.
-* You need *conditionals* like `if` statements to make decisions.
-* You need *loops* to repeat tasks until a condition stops being true.
-* You need *functions* to organize your code into logical and reusable chunks.
+- You need *operators* to perform actions on values.
+- You need values and *types* to perform different kinds of actions like math on `number`s or output with `string`s.
+- You need *variables* to store data (aka *state*) during your program's execution.
+- You need *conditionals* like `if` statements to make decisions.
+- You need *loops* to repeat tasks until a condition stops being true.
+- You need *functions* to organize your code into logical and reusable chunks.
 
 Code comments are one effective way to write more readable code, which makes your program easier to understand, maintain, and fix later if there are problems.
 
@@ -800,3 +810,4 @@ Finally, don't neglect the power of practice. The best way to learn how to write
 I'm excited you're well on your way to learning how to code, now! Keep it up. Don't forget to check out other beginner programming resources (books, blogs, online training, etc.). This chapter and this book are a great start, but they're just a brief introduction.
 
 The next chapter will review many of the concepts from this chapter, but from a more JavaScript-specific perspective, which will highlight most of the major topics that are addressed in deeper detail throughout the rest of the series.
+
