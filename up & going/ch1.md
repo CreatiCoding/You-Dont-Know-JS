@@ -6,15 +6,13 @@
 
 *Up & Going* 은 프로그래밍의 몇가지 기본 개념의 소개입니다, 물론 우리는 명확하게 자바스크립트를 다루며, 이 시리즈에서 다른 책들을 어떻게 이해하고 접근하는지 또한 다룰 것입니다. 특히 당신이 자바스크립트 혹은 프로그래밍에 대해 이제 막 시작했다면,  이 책은 당신이 *up and going* 하기 위해 필요한 것을 빠르게 탐색할 것입니다.
 
-이 책은 매우 높은 수준으로 프로그래밍의 기초 원리를 설명하며 시작합니다. 프로그래밍 경험이 거의 없이 *YDKJS*를본다면, 
+이 책은 매우 높은 수준으로 프로그래밍의 기초 원리를 설명하며 시작합니다. 프로그래밍 경험이 거의 없이 *YDKJS*를 보는 경우를 가정하였으며,  자바스크립트의 시각을 통해 프로그래밍을 이해하는 방법을 배우도록 돕습니다.
 
-This book starts off explaining the basic principles of programming at a very high level. It's mostly intended if you are starting *YDKJS* with little to no prior programming experience, and are looking to these books to help get you started along a path to understanding programming through the lens of JavaScript.
+1장은 프로그래밍에서 당신이 더 배우고 싶어하고 실습해보길 원하는 것에 대한 개요를 매우 빠르게 접근할 것 입니다. 또한 당신이 이 주제들에 대해 더 자세하고 들여다 보도록 도울 수 있는 환상적인 프로그래밍 소개 자료들이 많습으며 이 챕터 외에도 그 자료들로 부터 더 많이 배우길 권합니다.
 
-Chapter 1 should be approached as a quick overview of the things you'll want to learn more about and practice to get *into programming*. There are also many other fantastic programming introduction resources that can help you dig into these topics further, and I encourage you to learn from them in addition to this chapter.
+일반적인 프로그래밍 기본에 익숙해지고 나면 2장에서는 JavaScript의 프로그래밍 스타일에 익숙해지도록 안내합니다. 2장은 JavaScript가 무엇인지에 대해 소개하지만, 포괄적인 가이드가 아닙니다. *YDKJS*의 나머지 책자는 이에 관한 것입니다!
 
-Once you feel comfortable with general programming basics, Chapter 2 will help guide you to a familiarity with JavaScript's flavor of programming. Chapter 2 introduces what JavaScript is about, but again, it's not a comprehensive guide -- that's what the rest of the *YDKJS* books are for!
-
-If you're already fairly comfortable with JavaScript, first check out Chapter 3 as a brief glimpse of what to expect from *YDKJS*, then jump right in!
+만약 당신이 JavaScript에 이미 익숙하다면, *YDKJS*에서 예상할 수 있는 내용을 간단히 보기 위해 3장을 먼저 체크한 후 그곳으로 바로 뛰어드십시오!
 
 ## Code
 
@@ -810,4 +808,3 @@ Finally, don't neglect the power of practice. The best way to learn how to write
 I'm excited you're well on your way to learning how to code, now! Keep it up. Don't forget to check out other beginner programming resources (books, blogs, online training, etc.). This chapter and this book are a great start, but they're just a brief introduction.
 
 The next chapter will review many of the concepts from this chapter, but from a more JavaScript-specific perspective, which will highlight most of the major topics that are addressed in deeper detail throughout the rest of the series.
-
